@@ -10,7 +10,7 @@
 
 ### How did the idea for the company (or project) come about?
 
-    Stephanie Lampkin, an engineer with an MBA and five years at Microsoft as a technical account manager, founded Blendoor to address bias in the tech industry. Inspiration came from personal experiences in which unconscious bias stifled her career advancement, leading Lampkin to develop a "blind" recruiting app, BlendScore, to mitigate unconscious bias in hiring. Specifically, Stephanie interviewed for an analytical lead position at Google while working on another startup. Stephanie says, "After interviewing, the recruiter came back and told me I wasn't technical enough. I later found out that Google only had 12 African-American women in tech roles and realized there was a lack of diversity leadership in tech.". 
+ Stephanie Lampkin, an engineer with an MBA and five years at Microsoft as a technical account manager, founded Blendoor to address bias in the tech industry. Inspiration came from personal experiences in which unconscious bias stifled her career advancement, leading Lampkin to develop a "blind" recruiting app, BlendScore, to mitigate unconscious bias in hiring. Specifically, Stephanie interviewed for an analytical lead position at Google while working on another startup. Stephanie says, "After interviewing, the recruiter came back and told me I wasn't technical enough. I later found out that Google only had 12 African-American women in tech roles and realized there was a lack of diversity leadership in tech.". 
 
 ### How is the company funded? How much funding have they received?
 
